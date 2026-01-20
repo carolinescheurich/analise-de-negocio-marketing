@@ -1,18 +1,6 @@
 # 📊 Análise de Dados: Otimização de Despesas de Marketing
 
-Este projeto tem como objetivo elaborar recomendações estratégicas para otimizar despesas de marketing, a partir da análise de retenção de clientes e do volume de vendas por campanha.  
-A base do estudo é composta por logs de visitas, pedidos e custos de campanhas publicitárias.
-
-## 🧩 Descrição do conjunto de dados
-
-O estudo utiliza três conjuntos de dados principais:
-
-| Dataset | Descrição |
-|----------|------------|
-| visits_log_us.csv | Registro de visitas ao site/app |
-| orders_log_us.csv | Informações sobre pedidos realizados |
-| costs_us.csv | Gastos com campanhas de marketing |
-
+Este projeto tem como objetivo elaborar recomendações estratégicas para otimizar despesas de marketing, a partir da análise de retenção de clientes e do volume de vendas por campanha. A base do estudo é composta por logs de visitas, pedidos e custos de campanhas publicitárias.
 
 ## 🎯 Objetivos da análise
 
@@ -24,6 +12,16 @@ O estudo utiliza três conjuntos de dados principais:
    - ROI (Retorno sobre Investimento)
 4. Identificar oportunidades de otimização de gastos, priorizando canais e campanhas com melhor rentabilidade.
 5. Elaborar recomendações estratégicas para aprimorar a alocação do orçamento de marketing.
+
+## 🧩 Descrição do conjunto de dados
+
+O estudo utiliza três conjuntos de dados principais:
+
+| Dataset | Descrição |
+|----------|------------|
+| visits_log_us.csv | Registro de visitas ao site/app |
+| orders_log_us.csv | Informações sobre pedidos realizados |
+| costs_us.csv | Gastos com campanhas de marketing |
 
 ## 📈 Principais Resultados e Insights
 
